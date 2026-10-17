@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "+41APAmEvidKVAFXO8Xotjp1sKX1/nQEiuK0EGoCJbe1mGyr1p7J/1TSSTDQDOkfQGv2UYb+jMoIqM1iietAiA==",
+  "success": true,
+  "projectFilePath": "/home/chicles_fernan/Documentos/Modelado/Proyecto-2-Interfaz-Musical/Minero/Minero.csproj",
+  "expectedPackageFiles": [
+    "/home/chicles_fernan/.nuget/packages/microsoft.data.sqlite/10.0.13/microsoft.data.sqlite.10.0.13.nupkg.sha512",
+    "/home/chicles_fernan/.nuget/packages/microsoft.data.sqlite.core/10.0.13/microsoft.data.sqlite.core.10.0.13.nupkg.sha512",
+    "/home/chicles_fernan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.13/sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "/home/chicles_fernan/.nuget/packages/sqlitepclraw.core/2.1.13/sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "/home/chicles_fernan/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.13/sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "/home/chicles_fernan/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.13/sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512",
+    "/home/chicles_fernan/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/chicles_fernan/.nuget/packages/taglibsharp/2.3.0/taglibsharp.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
